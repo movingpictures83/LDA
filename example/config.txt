@@ -1,0 +1,2 @@
+Prefix plugins/LDA/example/
+Plugin LDA inputfile parameters.train.txt outputfile output.rds
